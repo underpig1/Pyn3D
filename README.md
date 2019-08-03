@@ -5,3 +5,8 @@
 For more information, see the [documentation](https://github.com/underpig1/Pyn3D/wiki)
 
 ###### Download the source above!
+OR
+###### Install through pip:
+```
+pip install git+
+```
