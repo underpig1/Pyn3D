@@ -3,7 +3,9 @@
 ### What Is *Pyn*?
 Pyn is a Python 3D game engine and renderer. It is great for creating your own 3D games from scratch with Python, and includes great mesh tools and environmental features. Pyn allows simple physics and easy manipulation to create 3D visualizers, games, and more. Pyn has lighting, materials, and textures, and is completely free and open-source. It is very easy to use and create your own meshes and renders, as well as built-in mesh tools to manipulate your meshes.
 
-For more information, see the [documentation](https://github.com/underpig1/Pyn3D/wiki)
+###### For more information, see the [documentation](https://github.com/underpig1/Pyn3D/wiki)
+###### Install [Pyn](#end)
+###### Try a [Project](https://github.com/underpig1/Pyn3D/wiki/Project-Starting-Guide)
 ***
 # Documentation
 #### Contents
@@ -751,6 +753,7 @@ download(name, obj)
 # download a Pyn Mesh as the name and object
 ```
 
+<a name = "end"></a>
 ## Congratulations!
 #### You made it to the end of the documentation!
 ###### [Now go try it yourself](https://github.com/underpig1/Pyn3D) or try a [project!](https://github.com/underpig1/Pyn3D/wiki/Project-Starting-Guide)
