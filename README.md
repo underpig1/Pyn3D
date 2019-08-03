@@ -3,3 +3,5 @@
 ##### *Now With Mesh Tools*
 
 For more information, see the [documentation](https://github.com/underpig1/Pyn3D/wiki)
+
+###### Download the source above!
